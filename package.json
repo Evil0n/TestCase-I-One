@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "preDeploy": "npm run generate",
-    "deploy": "./node_modules/.bin/push-dir --dir=dist --branch=gh-pages --cleanup",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup",
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
