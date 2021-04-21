@@ -24,7 +24,7 @@ export default {
   plugins: [],
 
   router: {
-    base: '/<TestCase-I-One>/',
+    base: '/TestCase-I-One',
   },
 
   // Auto import components: https://go.nuxtjs.dev/config-components
