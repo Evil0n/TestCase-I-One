@@ -25,6 +25,7 @@ export default {
 
   router: {
     base: '/TestCase-I-One',
+    mode: 'hash',
   },
 
   // Auto import components: https://go.nuxtjs.dev/config-components
