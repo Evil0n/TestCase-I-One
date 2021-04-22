@@ -1,5 +1,5 @@
 # todo
-[проект на github-pages](https://evil0n.github.io/TestCase-I-One/user/1)
+[проект на github-pages](https://evil0n.github.io/TestCase-I-One)
 
 ## Build Setup
 
